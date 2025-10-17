@@ -1,0 +1,5 @@
+libreria\Libreria.class
+libreria\AnalisiLibrerie.class
+libreria\App.class
+libreria\Libro.class
+libreria\MongoDBManager.class

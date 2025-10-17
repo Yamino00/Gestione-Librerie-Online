@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7541e"
+  },
+  "ISBN": "11",
+  "autoreLibro": "Ivan Di Candia",
+  "editoreLibro": "Kappa",
+  "prezzoLibro": "104",
+  "titoloLibro": "Il Fico D'India",
+  "categoriaLibro": "SATIRA",
+  "annoPubblicazione": "2017",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7541f"
+  },
+  "ISBN": "22",
+  "autoreLibro": "Il King Leccese",
+  "editoreLibro": "Capitan Ficchia",
+  "prezzoLibro": "23",
+  "titoloLibro": "Quando c'era lui",
+  "categoriaLibro": "COMICO",
+  "annoPubblicazione": "2020",
+  "lingua": "GIAPPONESE"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75420"
+  },
+  "ISBN": "44",
+  "autoreLibro": "Francesco Leccese",
+  "editoreLibro": "Overwatch 2",
+  "prezzoLibro": "42",
+  "titoloLibro": "I Segreti Di Clash Royale",
+  "categoriaLibro": "FANTASY",
+  "annoPubblicazione": "2021",
+  "lingua": "COREANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75421"
+  },
+  "ISBN": "77",
+  "autoreLibro": "Mario Ceci",
+  "editoreLibro": "Rocco Accademy",
+  "prezzoLibro": "69",
+  "titoloLibro": "Da Lino A Lone",
+  "categoriaLibro": "ADULTI",
+  "annoPubblicazione": "2019",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75422"
+  },
+  "ISBN": "21",
+  "autoreLibro": "Christian De Finis",
+  "editoreLibro": "QB",
+  "prezzoLibro": "25",
+  "titoloLibro": "Il Dragone",
+  "categoriaLibro": "GIALLO",
+  "annoPubblicazione": "2016",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75423"
+  },
+  "ISBN": "33",
+  "autoreLibro": "Luca Verdi",
+  "editoreLibro": "Mondadori",
+  "prezzoLibro": "18",
+  "titoloLibro": "La Notte Stellata",
+  "categoriaLibro": "ROMANZO",
+  "annoPubblicazione": "2018",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75424"
+  },
+  "ISBN": "55",
+  "autoreLibro": "Anna Rossi",
+  "editoreLibro": "Feltrinelli",
+  "prezzoLibro": "32",
+  "titoloLibro": "Viaggio nel Tempo",
+  "categoriaLibro": "FANTASY",
+  "annoPubblicazione": "2020",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75425"
+  },
+  "ISBN": "99",
+  "autoreLibro": "Marco Bianchi",
+  "editoreLibro": "Einaudi",
+  "prezzoLibro": "45",
+  "titoloLibro": "Il Mistero del Castello",
+  "categoriaLibro": "GIALLO",
+  "annoPubblicazione": "2019",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75426"
+  },
+  "ISBN": "100",
+  "autoreLibro": "Sofia Neri",
+  "editoreLibro": "Rizzoli",
+  "prezzoLibro": "28",
+  "titoloLibro": "Cuori Spezzati",
+  "categoriaLibro": "ROMANZO",
+  "annoPubblicazione": "2021",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75427"
+  },
+  "ISBN": "104",
+  "autoreLibro": "Giovanni Russo",
+  "editoreLibro": "Garzanti",
+  "prezzoLibro": "55",
+  "titoloLibro": "La Città Perduta",
+  "categoriaLibro": "AVVENTURA",
+  "annoPubblicazione": "2017",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75428"
+  },
+  "ISBN": "60",
+  "autoreLibro": "Laura Gialli",
+  "editoreLibro": "Longanesi",
+  "prezzoLibro": "38",
+  "titoloLibro": "Sotto le Stelle",
+  "categoriaLibro": "ROMANZO",
+  "annoPubblicazione": "2016",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac75429"
+  },
+  "ISBN": "88",
+  "autoreLibro": "Paolo Ferrari",
+  "editoreLibro": "Salani",
+  "prezzoLibro": "27",
+  "titoloLibro": "Il Segreto del Bosco",
+  "categoriaLibro": "FANTASY",
+  "annoPubblicazione": "2018",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542a"
+  },
+  "ISBN": "66",
+  "autoreLibro": "Francesca Blu",
+  "editoreLibro": "Sperling & Kupfer",
+  "prezzoLibro": "22",
+  "titoloLibro": "L'Ultimo Addio",
+  "categoriaLibro": "DRAMMATICO",
+  "annoPubblicazione": "2019",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542b"
+  },
+  "ISBN": "50",
+  "autoreLibro": "Andrea Viola",
+  "editoreLibro": "Bompiani",
+  "prezzoLibro": "34",
+  "titoloLibro": "Risate a Crepapelle",
+  "categoriaLibro": "COMICO",
+  "annoPubblicazione": "2020",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542c"
+  },
+  "ISBN": "75",
+  "autoreLibro": "Matteo Arancio",
+  "editoreLibro": "Adelphi",
+  "prezzoLibro": "41",
+  "titoloLibro": "Pensieri Profondi",
+  "categoriaLibro": "FILOSOFIA",
+  "annoPubblicazione": "2017",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542d"
+  },
+  "ISBN": "90",
+  "autoreLibro": "Elena Rosa",
+  "editoreLibro": "Piemme",
+  "prezzoLibro": "19",
+  "titoloLibro": "La Ricetta Perfetta",
+  "categoriaLibro": "CUCINA",
+  "annoPubblicazione": "2021",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542e"
+  },
+  "ISBN": "35",
+  "autoreLibro": "Roberto Marrone",
+  "editoreLibro": "Laterza",
+  "prezzoLibro": "48",
+  "titoloLibro": "Storia del Mondo Antico",
+  "categoriaLibro": "STORIA",
+  "annoPubblicazione": "2016",
+  "lingua": "ITALIANO"
+},
+{
+  "_id": {
+    "$oid": "68f0c826d18eba18bac7542f"
+  },
+  "ISBN": "120",
+  "autoreLibro": "Chiara Celeste",
+  "editoreLibro": "Il Mulino",
+  "prezzoLibro": "29",
+  "titoloLibro": "Amore e Destino",
+  "categoriaLibro": "ROMANZO",
+  "annoPubblicazione": "2018",
+  "lingua": "ITALIANO"
+}]
